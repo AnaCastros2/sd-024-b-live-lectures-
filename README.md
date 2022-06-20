@@ -1,13 +1,13 @@
 # sd-024-b-live-lectures
-Conteúdos de aulas ao vivo da Turma 24 - Tribo B
+<b>Conteúdos de aulas ao vivo da Turma 24 - Tribo B</b>
 
-Fundamentos do Desenvolvimento Web
+<br>Fundamentos do Desenvolvimento Web
 
-Bloco 01: Unix & Bash
-03: Fundamentos do Desenvolvimento Web
-03: Introdução - Unix & Shell
-03: Unix & Bash - Parte 1
-04: Unix & Bash - Parte 2
+<br>Bloco 01: Unix & Bash
+<br>03: Fundamentos do Desenvolvimento Web
+<br>03: Introdução - Unix & Shell
+<br>03: Unix & Bash - Parte 1
+<br>04: Unix & Bash - Parte 2
 
 Bloco 02: Git, GitHub e Internet
 01: Git & GitHub - O que é e para que serve
